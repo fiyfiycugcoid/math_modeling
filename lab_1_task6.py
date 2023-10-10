@@ -1,0 +1,10 @@
+a=[]
+b = input()
+v = input()
+g = input()
+d = input()
+a.append(b)
+a.append(v)
+a.append(g)
+a.append(d)
+print(a)
