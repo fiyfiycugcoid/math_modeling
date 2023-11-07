@@ -1,0 +1,11 @@
+massa_elektrona=91093837015 * 10**(-31)
+earth_mass =5.97237 * 10**30
+sigma_steff_bolc=5.67036713 * 18**(-18)
+gravity_const=6.67408 * 10**(-11)
+speed_of_light= 3 * 10**8
+faradey_const=96484.56
+falling_boost=10
+avogadro_const=6.022045* 10**23
+avg_atmosphere_pressure=101325
+electo_const= 8.85418782* 10**(-12)
+bolcman_const=1.380662* 10**(-23)
