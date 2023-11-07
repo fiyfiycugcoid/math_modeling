@@ -4,6 +4,6 @@ x=int(input(''))
 print(z, c)
 for i in range(x):
     a=z+c
-    print(a, end=' ')
+    print(a)
     z=c
     c=a
