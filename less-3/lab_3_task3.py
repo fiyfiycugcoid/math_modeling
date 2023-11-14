@@ -16,3 +16,4 @@ for i in range(len(t)):
     coords[i, 0] = t[i]
     coords[i, 1] = x[i]
     coords[i, 2] = y[i]
+print(coords)
